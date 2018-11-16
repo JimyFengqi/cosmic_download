@@ -1,11 +1,9 @@
+# !/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time : 2018/11/16 10:02 AM
 # @Author : cxa
 # @File : cosmic.py
 # @Software: PyCharm
-# !/usr/bin/env python
-# encoding: utf-8
-# !/usr/bin/env python
 # encoding: utf-8
 from requests_html import HTMLSession
 import aiohttp
